@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Circle",
+        "Coordinate": [ 533, 112 ],
+        "Color": "Red"
+    },
+    {
+        "Name": "Triangle",
+        "Coordinate": [ 121, 331 ],
+        "Color": "Blue"
+    },
+    {
+        "Name": "Octagon",
+        "Coordinate": [ 631, 422 ],
+        "Color": "Green"
+    },
+    {
+        "Name": "Square",
+        "Coordinate": [ 403, 142 ],
+        "Color": "Blue"
+    },
+    {
+        "Name": "Pentagon",
+        "Coordinate": [ 4933, 132 ],
+        "Color": "Orange"
+    }
+]
